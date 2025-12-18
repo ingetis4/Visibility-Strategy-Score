@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tools/visibility-score/static/css/main.b30a6164.css",
+    "main.js": "/tools/visibility-score/static/js/main.1fbb13d5.js",
+    "index.html": "/tools/visibility-score/index.html",
+    "main.b30a6164.css.map": "/tools/visibility-score/static/css/main.b30a6164.css.map",
+    "main.1fbb13d5.js.map": "/tools/visibility-score/static/js/main.1fbb13d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30a6164.css",
+    "static/js/main.1fbb13d5.js"
+  ]
+}
